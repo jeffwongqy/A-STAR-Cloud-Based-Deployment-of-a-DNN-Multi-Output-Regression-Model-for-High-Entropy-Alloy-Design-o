@@ -1,4 +1,11 @@
-# Accelerated-Design-of-High-Entropy-Alloys-Using-DNN-Based-Multi-Output-Regression
+# Accelerated Design of High Entropy Alloys using DNN-Based Multi-Output Regression
+
+<img width="1166" height="602" alt="HEAs ML" src="https://github.com/user-attachments/assets/2c9d8275-9a7a-4e73-a3b9-600a35ac3167" />
+
+
+
+
+
 
 This internship project is associated with the A*STAR ARIA Internship Project
 
