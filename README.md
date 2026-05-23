@@ -2,10 +2,12 @@
 
 <img width="1216" height="631" alt="HEAs ML" src="https://github.com/user-attachments/assets/39abae69-d683-487e-86b4-3a6b09bc99c3" />
 
+## Problem Statement
+<img width="1135" height="410" alt="problem_statement" src="https://github.com/user-attachments/assets/f3e87564-cccc-4856-a085-7f8fcc671075" />
 
-This internship project is associated with the A*STAR ARIA Internship Project
 
-This project aims to utilize Deep Neural Networks (DNN) to concurrently predict critical mechanical properties—yield strength, ultimate tensile strength, and elongation. This approach streamlines the materials design and optimization process by offering rapid and accurate insights into the mechanical behavior of new alloys and composites, ultimately expediting the development of high-performance materials.
+## Structure of Tabular Data
+<img width="1202" height="675" alt="structure of tabular data" src="https://github.com/user-attachments/assets/7b5d6121-70fe-4a8b-bb2f-3b75840f28ae" />
 
 
 
