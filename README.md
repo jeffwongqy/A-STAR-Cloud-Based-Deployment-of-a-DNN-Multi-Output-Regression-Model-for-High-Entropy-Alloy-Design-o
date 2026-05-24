@@ -50,10 +50,10 @@
 ## 11. Web Application using Streamlit 
 <img width="895" height="458" alt="Picture1" src="https://github.com/user-attachments/assets/bf0f2c81-c8d1-4029-837f-9cf7ce548355" />
 
-
-
-
-
+## Libraries 
+- Sklearn
+- Keras
+- SHAP
 
 ## References
 Wang, J., Kwon, H., Kim, H. S., & Lee, B.-J. (2023). A neural network model for high entropy alloy design. Npj Computational Materials, 9(1). https://doi.org/10.1038/s41524-023-01010-x
